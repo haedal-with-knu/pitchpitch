@@ -43,7 +43,15 @@ IT대학이라고 스피치 할 일이 없다고 생각하시나요?
 
 사실 피치피치 진행하면서 많이 고민하고 힘들었는데 함께 해주신 분들 덕분에 얻어가는 것도 많고 스피치 능력도 많이 좋아졌어요.
 
-김다은씨, 최영진씨, 류종현씨 고마워요! 기회가 된다면 다음학기도 볼 수 있으면 좋겠네요^_^
+김다은씨, 최영진씨, 류종현씨 감사합니다 정말루 기회가 된다면 다음학기도 볼 수 있으면 좋겠네요^_^
 
 # 활동 내용
-1. [## 1회차](https://github.com/haedal-with-knu/pitchpitch/blob/master/parts/1%ED%9A%8C%EC%B0%A8)
+1. [1회차](https://github.com/haedal-with-knu/pitchpitch/blob/master/parts/1%ED%9A%8C%EC%B0%A8)
+
+2. [2회차](https://github.com/haedal-with-knu/pitchpitch/blob/master/parts/1%ED%9A%8C%EC%B0%A8)
+
+3. [3회차](https://github.com/haedal-with-knu/pitchpitch/blob/master/parts/1%ED%9A%8C%EC%B0%A8)
+
+4. [4회차](https://github.com/haedal-with-knu/pitchpitch/blob/master/parts/1%ED%9A%8C%EC%B0%A8)
+
+
