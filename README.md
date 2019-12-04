@@ -47,14 +47,14 @@ IT대학이라고 스피치 할 일이 없다고 생각하시나요?
 
 # 활동 내용
 * [1회차](https://github.com/haedal-with-knu/pitchpitch/tree/master/files/%ED%94%BC%EC%B9%981%EC%B0%A8)
-* 2019년 10월 1일 화요일
+  * 2019년 10월 1일 화요일
 
 + [2회차](https://github.com/haedal-with-knu/pitchpitch/tree/master/files/%ED%94%BC%EC%B9%982%EC%B0%A8)
-+ 2019년 10월 29일 화요일
+  + 2019년 10월 29일 화요일
 
 - [3회차](https://github.com/haedal-with-knu/pitchpitch/tree/master/files/%ED%94%BC%EC%B9%983%EC%B0%A8)
-- 2019년 11월 5월 화요일
+  - 2019년 11월 5월 화요일
 
 * [4회차](https://github.com/haedal-with-knu/pitchpitch/tree/master/files/%ED%94%BC%EC%B9%984%EC%B0%A8)
-* 2019년 11월 21일 목요일
+  * 2019년 11월 21일 목요일
 
