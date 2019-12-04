@@ -48,10 +48,10 @@ IT대학이라고 스피치 할 일이 없다고 생각하시나요?
 # 활동 내용
 * [1회차](https://github.com/haedal-with-knu/pitchpitch/tree/master/files/%ED%94%BC%EC%B9%981%EC%B0%A8)
 
-+ [2회차](https://github.com/haedal-with-knu/pitchpitch/blob/master/parts/2%ED%9A%8C%EC%B0%A8)
++ [2회차](https://github.com/haedal-with-knu/pitchpitch/tree/master/files/%ED%94%BC%EC%B9%982%EC%B0%A8)
 
-- [3회차](https://github.com/haedal-with-knu/pitchpitch/blob/master/parts/3%ED%9A%8C%EC%B0%A8)
+- [3회차](https://github.com/haedal-with-knu/pitchpitch/tree/master/files/%ED%94%BC%EC%B9%983%EC%B0%A8)
 
-* [4회차](https://github.com/haedal-with-knu/pitchpitch/blob/master/parts/4%ED%9A%8C%EC%B0%A8)
+* [4회차](https://github.com/haedal-with-knu/pitchpitch/tree/master/files/%ED%94%BC%EC%B9%984%EC%B0%A8)
 
 
